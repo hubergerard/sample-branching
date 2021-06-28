@@ -1,3 +1,5 @@
 /* Here I write some code */
 
 Code = new Code();
+
+// Test a new comment
