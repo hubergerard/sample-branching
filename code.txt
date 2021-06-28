@@ -1,0 +1,3 @@
+/* Here I write some code */
+
+Code = new Code();
