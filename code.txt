@@ -1,5 +1,6 @@
 /* Here I write some code */
 
 Code = new Code();
+code.setName("Hello")
 
 // Test a new comment
