@@ -1,5 +1,7 @@
 /* Here I write some code */
 
+let greeting  "Hello";
 Code = new Code();
+code.setName(greeting)
 
 // Test a new comment
